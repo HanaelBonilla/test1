@@ -6,7 +6,7 @@
       <class name="Testng.Automation$yourLogoClass">
         <methods>
           <include name="beforeTesting"/>
-          <include name="seleniumTesting"/>
+          <include name="shoppingCart"/>
           <include name="afterTesting"/>
         </methods>
       </class> <!-- Testng.Automation$yourLogoClass -->
